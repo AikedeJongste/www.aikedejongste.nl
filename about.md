@@ -19,7 +19,7 @@ things I've learned and created. Feel free to join, you always unsubscribe!
 <div id="mc_embed_signup">
 <form action="https://aikedejongste.us16.list-manage.com/subscribe/post?u=5ec7e532415ef1123dfd7a19c&amp;id=e9c30a72d8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
   <div id="mc_embed_signup_scroll">
-  <h4>Join my mailing list for updates:</h4>
+  <h4>Enter your email address here:</h4>
   <div class="mc-field-group">
   <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
 </div>
@@ -33,3 +33,13 @@ things I've learned and created. Feel free to join, you always unsubscribe!
 </form>
 </div>
 <!--End mc_embed_signup-->
+
+<br>
+<br>
+  <header class="post-header">
+    <h5 class="post-title">My current tools</h5>
+  </header>
+  - 13 inch MacBook Pro with Touchbar
+  - Bose QuietComfort 35
+  - Roost Stand 2 + Apple keyboard + Magic Trackpad
+  - Samsung Galaxy A5 Dual Sim
