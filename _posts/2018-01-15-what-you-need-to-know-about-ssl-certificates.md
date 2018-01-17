@@ -11,8 +11,8 @@ SSL certificates. Most of the time you hear about them when they are expired or
 when the registrar starts sending you email reminders to extend the certificate.
 
 SSL-certificates are important. Every website and application should have one.
-Here is why:
 
+**4 reasons your site should have a SSL certificate:**
 1. They guarantee that the website the user receives and sees is the same as the
    one you have on your server or webhosting account and nobody could intercept
    the connection. That’s why online banking sites were the first to use
@@ -34,9 +34,10 @@ Here is why:
    required. Banks obviously have these certificates and you can recognize them
    by the name in the address bar in your browser.
 
+**What it looks like in your browser:**
 ![Different types](/assets/certificates.png){:class="img-responsive"}
 
-What should I do, now that I know this?
+**What should I do, now that I know this?**
 
 1. Find out if your website or application has a certificate. Open a browser and go to
 httpS://www.yourwebsite.com. If you see your website and your browser shows no
@@ -52,7 +53,10 @@ website](https://www.ssllabs.com/ssltest/). Enter your domain name and wait for
 the test suite to complete. It's free and takes about 2 minutes. If the result
 of the test is a B or lower you have some things you need to improve.
 
-**Pro-tip:** setup a monitoring tool to warn you when your certificate is about
+![SSL Labs results](/assets/ssllabs.png){:class="img-responsive"}
+
+**Pro-tip:** setup a [monitoring tool](https://updown.io/r/vw0un
+) to warn you when your certificate is about
 to expire. I'll explain this in another blogpost.
 
 
